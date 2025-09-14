@@ -4,6 +4,16 @@
 Activity 1:
 ![Activity 1 screenshot](images/activity1.png)
 
+Activity 2:
+![Activity 2 sceenshot A](images/activity2website.png)
+![Activity 2 sceenshot A](images/activity2repo.png)
+
+Avtivity 3:
+
+Activity 4:
+
+Activity 5:
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://liyaDyakov.github.io
