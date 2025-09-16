@@ -6,15 +6,20 @@ Activity 1:
 
 Activity 2:
 ![Activity 2 sceenshot A](images/activity2website.png)
-![Activity 2 sceenshot A](images/activity2repo.png)
+![Activity 2 sceenshot B](images/activity2repo.png)
 
 Avtivity 3:
-![Activity 2 sceenshot A](images/activity3.png)
+![Activity 3 sceenshot A](images/activity3.png)
+![Activity 2 sceenshot B](images/activity2repo.png)
 
 Activity 4:
-![Activity 2 sceenshot A](images/activity4.png)
+![Activity 4 sceenshot A](images/activity4.png)
+![Activity 2 sceenshot B](images/activity2repo.png)
 
 Activity 5:
+![Activity 5 sceenshot A](images/recent_projects.png)
+![Activity 2 sceenshot B](images/activity5repo.png)
+
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
