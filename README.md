@@ -1,5 +1,5 @@
 # Liya Dyakov Personal Portfolio ⚡️ 
->This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
+>This repo is a clone of https://github.com/varadbhogayata/liyaDyakov.github.io 
 
 Activity 1:
 ![Activity 1 screenshot](images/activity1.png)
