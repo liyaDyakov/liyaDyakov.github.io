@@ -9,8 +9,10 @@ Activity 2:
 ![Activity 2 sceenshot A](images/activity2repo.png)
 
 Avtivity 3:
+![Activity 2 sceenshot A](images/activity3.png)
 
 Activity 4:
+![Activity 2 sceenshot A](images/activity4.png)
 
 Activity 5:
 
